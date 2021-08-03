@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "files.autoSave": "off",
+  "editor.fontLigatures": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.printWidth": 100,
+  "prettier.jsxSingleQuote": true
+}
